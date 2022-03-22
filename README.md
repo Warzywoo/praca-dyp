@@ -1,5 +1,7 @@
 # praca-dyplomowa
 
+gfhgh
+
 ## sekcja 1
 
 ## sekcja 2
